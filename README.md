@@ -1,6 +1,6 @@
 # algo_rem_mem_2025_parcial_3
 
-Implementación de los algoritmos de reemplazo de páginas
+Implementación de los algoritmos de reemplazo de páginas **(LRU)**
 
 Realice fork de este repositorio. Invite al docente fcardonaEAFIT (fcardona@eafit.edu.co).
 
@@ -54,4 +54,4 @@ Req: 0xf1 Direccion Fisica: 0x1ff Acción: Segmention Fault
 
 ## Autor.
 
- * Nombre completo:
+ * Nombre completo: Moisés David Arrieta Hernández
